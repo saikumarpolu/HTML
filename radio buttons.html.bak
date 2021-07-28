@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>Document</title>
+ </head>
+ <body>
+ <label>tournment state</label>
+  <input type="radio" name="pin">telengana</input>
+  <input type="radio" name= "pin">delhi</input>
+  <input type="radio" name="pin">andhra</input>
+  <br></br>
+  <label>indoor games</label>
+
+  <input type="checkbox">chess</input>
+  <input type="checkbox">carrom</input>
+  <input type="checkbox">ludo</input>
+  <br></br>
+  <label>college name</label>
+
+  <select>
+  <option>----select----</option>
+  <option>jayamukhi college</option>
+  <option>vaagdevi college</option>
+  <option>ganapathi college<option>
+  <option>balaji instute of technology</option>
+  </select>
+  <br></br>
+  <label>Dob</label>
+  <input type="date"></input>
+
+  <br></br>
+
+  <label>demo reviews</label>
+  <textarea><textarea>
+  <br></br>
+
+ </body>
+</html>

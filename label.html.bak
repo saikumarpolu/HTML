@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ 
+ <link rel="stylesheet" href="labels.css"></link>
+ </head>
+ <body>
+    <div id="div1">
+   <table>
+ <tr>
+    <td><label>name</label></td>
+     <td> <input></input></td>
+ </tr>
+
+ <tr> 
+     <td><label>Email Id</label></td>
+     <td><input></input></td>
+</tr>
+  
+
+  <tr>
+      <td><label>phone number</label></td>
+	  <td><input></input>
+</tr>
+    <tr>
+ 
+      <td><label>adress</label></td>
+	  <td><input></input></td>
+  </tr>
+</table>
+</div>
+
+
+<div id="sa">
+     
+	 <tr>
+	     <td><label>Name<label></td>
+		 <td><input></input></td>
+	</tr>
+
+	<tr>
+     <td><label>Email Id</label></td>
+     <td><input></input></td>
+	 </tr>
+    <tr>
+        <td><label>phone number</label></td>
+	     <td><input></input></td>
+    </tr>
+
+
+      <tr>
+        <td><label>adress</label></td>
+	    <td><input></input></td>
+      </tr>
+  
+</table>
+   </div>
+ </body>
+</html>

@@ -1,0 +1,16 @@
+#div1{height:600px;
+       width:50%;
+	 background-color:orange;
+	 float:left;
+	 text-align:center;}
+	 
+
+#sa{ height:600px;
+     width:50%;
+	 background-color:red;
+	 float:right;
+	 text-align:center}
+table{margin:60px;{
+   td  { padding:20px;}
+
+

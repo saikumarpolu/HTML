@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>Document</title>
+ </head>
+ <body>
+ <table>
+  <form>
+    <tr>
+       <td><label>card number</label><td>
+       <td><input type="number"></input><td>
+<br></br>
+<label>expiry date</label>
+
+  
+ </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+ <h1 id="sai">hello world</h1>
+ <h1 class="saikrishna"> whatsapp</h1>
+ <h1 class="saikrishna">facebook</h1>
+ <h1 class="saikrishna">instagram</h1>
+ <h1 class="raju">twitter</h1>
+
+<h2 class="saikrishna">samsung</h2>
+<h2 class="saikrishna">iphone</h2>
+<h2 class="raju">redmi</h2>
+
+<h3 class="saikrishna">dell</h3>
+<h3 id="srinadh">hp</h3>
+  
+ </body>
+</html>
